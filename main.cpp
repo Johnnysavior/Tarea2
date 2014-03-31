@@ -132,7 +132,7 @@ int main(int argc, char **argv)
             //recordar que *(argv + 2) vendria siendo "tienda" y *(argv + 3) vendria siendo el nonbre del archivo.
             try
             {
-                char cadena[128]
+                char cadena[128];
                 double meses[12]= {0,0,0,0,0,0,0,0,0,0,0,0};//arreglo con los montos mensuales
                 int mes;
 
