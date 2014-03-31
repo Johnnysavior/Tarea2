@@ -1,9 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <string.h>
-#include <string>
 #include <stdlib.h>
-#include<conio.h>
 
 using namespace std;
 
